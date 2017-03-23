@@ -1,6 +1,6 @@
 # Automatisation d'une écluse (projet IHM)
 
-## decription
+## Decription
 Projet universitaire réalisé dans le cadre de l'UE "Interfaces homme-machine".
 Ce projet comporte plusieurs objectif :
 * prise en main de l'environnement Qt Creator
